@@ -5,9 +5,9 @@ Initial implementation of https://github.com/derekr/bladerunnered
 Basically the concept is:
 
 ```
-balde runner soundtrack +
+blade runner soundtrack +
 sound of rain +
-SF police scranner life stream
+SF police scanner live stream
 
 => Productivity by way of feeling like a future detective in SF
 ```
